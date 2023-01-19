@@ -1,0 +1,67 @@
+.heading-1 {
+    color: dodgerblue;
+    text-align: center;
+    font-size: 100px;;
+    font-family: 'VT323', monospace;
+}
+
+
+.heading-2 {
+    color:dodgerblue;
+    text-align: center;
+    font-family: 'VT323', monospace;
+}
+
+div {
+    text-align: center;
+}
+
+.showdownexplained {
+    color: blue;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+body {
+    background-color: grey;
+    border: 1px solid lightgrey;
+}
+
+.reasonslist1 li:first-of-type {
+    color: cornflowerblue;
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.reasonslist1 li:nth-of-type(2) {
+    color:darkgray;
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.reasonslist1 li:nth-of-type(3) {
+    color:cornflowerblue;
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.reasonslist1 li:nth-of-type(4) {
+    color:darkgray;
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.reasonslist1 li:nth-of-type(5) {
+    color:cornflowerblue;
+    font-size: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.psvideotitle {
+    border: 2px solid black;
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+video {
+    border: 2px solid black;
+    align-items: center;
+}
